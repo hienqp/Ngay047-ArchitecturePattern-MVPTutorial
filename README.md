@@ -16,7 +16,7 @@ ___
 
 ## LOGIN APP VỚI MVP
 
-- ta sẽ thực hiện thiết kế 1 chương trình có giao diện như sau theo mô hình kiến trúc MVC
+- ta sẽ thực hiện thiết kế 1 chương trình có giao diện như sau
 
 <img src="https://github.com/hienqp/Ngay047-ArchitecturePattern-MVCTutorial/blob/main/UI_SAMPLE.png">
 
