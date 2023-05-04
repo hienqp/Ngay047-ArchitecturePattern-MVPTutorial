@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Tutorial</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="successful_message_here">Successful Message Here</string>
+</resources>
